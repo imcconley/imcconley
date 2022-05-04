@@ -1,5 +1,7 @@
-### Hi there 👋
+### Every day, once a day, give yourself a present.
 
+
+![alt text](https://chrisconley.co/img/GeerY.gif "Logo Title Text 1")
 <!--
 **imcconley/imcconley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
