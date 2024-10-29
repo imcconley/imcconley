@@ -1,7 +1,4 @@
-### Every day, once a day, give yourself a present.
-
-
-![alt text](https://chrisconley.co/img/GeerY.gif "Logo Title Text 1")
+![alt text](https://github.com/imcconley/imcconley/blob/main/thesimpsons.gif?raw=true)
 <!--
 **imcconley/imcconley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
